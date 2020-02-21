@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="button_turn_on">Turn On</string>
+    <string name="button_turn_off">Turn Off</string>
+    <string name="view_bluetooth_state">TextView</string>
+    <string name="button">Pairing Devices</string>
+    <string name="textview_paired_device"></string>
+    <string name="todo">TODO</string>
+    <string name="Active">Active Device</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="scan">Scan Devices</string>
+</resources>
